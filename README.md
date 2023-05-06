@@ -2,7 +2,7 @@
 
 Completed by January
 
-TechStack - python ,opencv
+TechStack - python ,opencv,mediapipe,time
 
 FingerFinder is an OpenCV project designed to recognize and track finger patterns that represent the digits 1-5.
 
